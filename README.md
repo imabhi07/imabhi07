@@ -23,7 +23,7 @@
 ```text
 🎓  B.Tech CSE @ DY Patil International University, Pune  —  Graduating 2026
 🏆  1 of 6,175 finalists from 36,000+ global applicants  —  Harvard-affiliated Aspire Leaders Program 2025
-🥇  Top 10 @ Smart India Hackathon 2024
+🥇  Smart India Hackathon 2024
 💼  Salesforce Dev Intern @ TheSmartBridge  ·  Web Dev Intern @ Agarwal Creations
 🔭  Currently building LinkVeil-AI  —  real-time phishing detection with Deep Learning + LLMs
 🌱  Exploring Agentic AI systems, advanced DSA & modern AI agent architectures
@@ -53,7 +53,7 @@ Real-time hybrid phishing detection using Deep Learning, XGBoost, LLMs & active 
 <td width="50%" valign="top">
 
 ### 🤖 Conversational AI Chatbot
-*Smart India Hackathon 2024 — Top 10 🏆*
+*Smart India Hackathon 2024 🏆*
 
 Multi-modal chatbot with voice recognition, YOLO object detection & NLP.
 
