@@ -126,7 +126,7 @@ Remotely operated robot with real-time video feed, motor control & obstacle dete
 <div align="center">
 
 <a href="https://github.com/imabhi07/imabhi07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imabhi07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imabhi07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abhijeet's GitHub Stats" />
 </a>
 <a href="https://github.com/imabhi07/imabhi07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi07&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
